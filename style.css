@@ -41,8 +41,7 @@ body {
   box-shadow: 0 5px 30px 5px rgba(0, 0, 0, 0.5);
 }
 #img-style {
-  width: 300px;
-  height: 320px;
+  margin-top: 25px;
 }
 
 h2 {
